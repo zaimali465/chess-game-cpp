@@ -33,7 +33,7 @@ A console-based Chess game developed in C++ with complete game logic and two-pla
 
 ### 🔧 Step 1: Clone the Repository
 
-git clone https://github.com/YourUsername/chess-game-cpp.git
+git clone [https://github.com/YourUsername/chess-game-cpp.git](https://github.com/zaimali465/chess-game-cpp)
 cd chess-game-cpp
 **
 ⚙️ Step 2: Compile the Code**
